@@ -25,10 +25,13 @@ A utility library filled with commonly reused functions which help reduce duplic
 - [GDScript](docs/GDScript.md)
 - C# (Coming Soon)
 
+## Updates
+
+Stay up-to-date with the development of the project by checking either the **'issues tab'** or the **'projects'** tab and select **'Minoqis Utils Godot Tracker'**.
 
 ## Contributors
 
-Minoqis Utils Godot is made by [Minoqi](https://github.com/Minoqi). Feel free to assist directly with the project by following the [Coding Standard](docs/CodingStandardGDScript.md) or by submitting an issue for either a desired feature or a bug. Please include as many details as possible, including any relevant screenshots/videos/gifs.
+Minoqis Utils Godot is made by [Minoqi](https://github.com/Minoqi). Feel free to assist directly with the project by following the [Coding Standard](docs/CodingStandardGDScript.md) or by submitting an issue for either a desired feature or a bug. Please include as many details as possible, including any relevant screenshots/videos/gifs. You can help make the process faster by marking an issue as either an enhancement or bug (or another if appropriate).
 
 ## License
 
